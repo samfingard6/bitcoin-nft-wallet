@@ -1,0 +1,7 @@
+{
+  "externally_connectable": {
+    "matches": ["https://bitnftwallet.xyz/*", "https://unisat.io/*"],
+    "ids": ["*"]
+  },
+  "minimum_chrome_version": "88"
+}
